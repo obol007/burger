@@ -1,2 +1,2 @@
-# burger
+# Burger Builder
 React application - Burger Builder
